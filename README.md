@@ -9,6 +9,7 @@
 
 ## Python 
 
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 
 
