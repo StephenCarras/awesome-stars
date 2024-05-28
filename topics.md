@@ -6,16 +6,31 @@
 ## Contents
 
 - [cli](#cli)
+- [finance](#finance)
+- [postgresql](#postgresql)
 - [python](#python)
+- [ruby](#ruby)
 
 ## cli 
 
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 
+## finance 
+
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
+## postgresql 
+
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+
 ## python 
 
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+
+## ruby 
+
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
 
 ## License
