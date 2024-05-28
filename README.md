@@ -6,11 +6,16 @@
 ## Contents
 
 - [Python](#python)
+- [Ruby](#ruby)
 
 ## Python 
 
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+
+## Ruby 
+
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
 
 ## License
